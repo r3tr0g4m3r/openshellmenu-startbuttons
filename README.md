@@ -3,9 +3,6 @@ Some home made start buttons for Open Shell Menu everyone to enjoy
 ### Open Shell Start Buttons
 
 **For Open-Shell Menu**
-
-A modern, highly customizable skin for Open-Shell, made for Windows 10.
-
 ### Download latest release [here](https://github.com/r3tr0g4m3r/openshellmenu-startbuttons/releases/).
 
 - - -
