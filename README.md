@@ -1,5 +1,5 @@
 # openshellmenu-startbuttons
-Some home made start buttons for Open Shell Menu everyone to enjoy
+Some home made start buttons for Open Shell Menu for everyone to enjoy!
 ### Open Shell Start Buttons
 
 **For Open-Shell Menu**
